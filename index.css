@@ -1,0 +1,29 @@
+body 
+{
+    background-image: url("./NRCC.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: contain;
+    background-color: black;
+    color: rgb(255, 233, 127);
+    font-family: 'Cascadia Code';
+}
+h1
+{
+    font-style: italic;
+    text-decoration-style: solid;
+    color: rgb(255, 233, 127);
+    font-size: 75px;
+    text-align: center;
+    position: relative;
+    top: 35px;
+}
+.open
+{
+    color: green;
+}
+a
+{
+    color: aqua;
+}
