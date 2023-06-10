@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\news",
+    "\\news\\NRCC open",
+    "\\roster",
+    "\\roster\\C-100"
   ],
-  "SelectedNode": "\\NRCCdispatch",
+  "SelectedNode": "\\roster\\C-100\\C-100.html",
   "PreviewInSolutionExplorer": false
 }
