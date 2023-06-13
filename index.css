@@ -6,14 +6,14 @@ body
     background-attachment: fixed;
     background-size: contain;
     background-color: black;
-    color: rgb(255, 233, 127);
+    color: blue;
     font-family: 'Cascadia Code';
 }
-h1
+h1 
 {
+    color: rgb(255, 233, 127);
     font-style: italic;
     text-decoration-style: solid;
-    color: rgb(255, 233, 127);
     font-size: 75px;
     text-align: center;
     position: relative;
